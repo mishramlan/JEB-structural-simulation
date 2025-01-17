@@ -1,3 +1,5 @@
 .venv
 JEB_Data
 .DS_Store
+Results/reports
+Results/visualizations
